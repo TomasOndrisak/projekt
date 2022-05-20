@@ -1,0 +1,12 @@
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\Infrastruktura.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\Infrastruktura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\Infrastruktura.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\Infrastruktura.AssemblyInfo.cs
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\Infrastruktura.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\bin\Debug\net5.0\Infrastruktura.deps.json
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\bin\Debug\net5.0\Infrastruktura.dll
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\bin\Debug\net5.0\Infrastruktura.pdb
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\Infrastruktura.dll
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\refint\Infrastruktura.dll
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\Infrastruktura.pdb
+C:\Users\tomas\Desktop\robota\WebApiCore\Infrastruktura\obj\Debug\net5.0\ref\Infrastruktura.dll
